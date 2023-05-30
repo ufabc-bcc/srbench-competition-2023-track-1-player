@@ -1,0 +1,4 @@
+data	acc	expression	
+1	0.142592	(sin(x0)/(exp((sin(x6)+sin(x1)))/sin((x1-(x0-x1)))))
+2	0.909257	(((x0+(x0/x1))*(x5*x5))/(x3/(x6+x5)))
+3	0.03433	(sin(x4)/(((x14-x3)+x13)/x4))

@@ -1,0 +1,14 @@
+﻿  pfgp.cpp
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(89,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(89,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(154,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(154,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(340,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(385,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(397,12): warning C4101: “k”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(397,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(468,31): warning C4101: “r5”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(468,27): warning C4101: “r4”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(468,23): warning C4101: “r3”: 未引用的局部变量
+C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\pfgp\pfgp.cpp(582,24): warning C4018: “<”: 有符号/无符号不匹配
+  pfgp.vcxproj -> C:\Users\user\Desktop\srbench-competition-2023-track-1-player\src\pfgp\Debug\pfgp.exe
